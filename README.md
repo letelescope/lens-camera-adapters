@@ -1,6 +1,6 @@
-# CANON_EF
+# Lens Cameras Adapters
 
-CANON_EF is a 3D astronomy project designed to enable the 3D printing of two adapters that connect Canon EF lenses to astrophotography cameras equipped with M42 (T2) or M48 threads.
+Lens Cameras Adapters is a 3D astronomy project designed to enable the 3D printing of adapters that connect APN lenses to astrophotography cameras equipped with M42 (T2) or M48 threads.
 
 ## 🔭 Project purpose
 
