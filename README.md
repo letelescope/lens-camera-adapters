@@ -26,10 +26,10 @@ Illustration of the three-element mounting setup:
 
 ![Three-element mounting assembly](three_elements_mounting.png)
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center"><img src="canon_EF_M42.png" alt="Canon EF M42 connector" width="95%" /><br><strong>Assembly M42</strong></td>
-    <td align="center"><img src="canon_EF_M48.png" alt="Canon EF M48 connector" width="95%" /><br><strong>Assembly M48</strong></td>
+    <td style="border: none; text-align: center;"><img src="canon_EF_M42.png" alt="Canon EF M42 connector" width="95%" /><br><strong>Assembly M42</strong></td>
+    <td style="border: none; text-align: center;"><img src="canon_EF_M48.png" alt="Canon EF M48 connector" width="95%" /><br><strong>Assembly M48</strong></td>
   </tr>
 </table>
 
