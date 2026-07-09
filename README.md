@@ -20,6 +20,13 @@ The two main adapter parts are designed to maintain the correct distance of 44 m
 
 This setup is intended for astrophotography applications where Canon EF lenses are used with cameras that require specific adapter spacing and thread compatibility.
 
+## 🖨️ 3D printing settings
+
+Recommended slicing parameters:
+
+- **Lens connector and M42/M48 connectors**: 0.2 mm layer height, 3 to 4 walls, 25% to 30% infill.
+- **Mount bracket**: 0.3 mm layer height, 3 to 4 walls, 30% to 40% infill.
+
 ## 🖼️ Screenshots
 
 Illustration of the three-element mounting setup:
