@@ -28,8 +28,8 @@ Illustration of the three-element mounting setup:
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none; text-align: center;"><img src="canon_EF_M42.png" alt="Canon EF M42 connector" width="95%" /><br><strong>Assembly M42</strong></td>
-    <td style="border: none; text-align: center;"><img src="canon_EF_M48.png" alt="Canon EF M48 connector" width="95%" /><br><strong>Assembly M48</strong></td>
+    <td style="border: none; text-align: center;"><img src="canon_EF_M42.png" alt="Canon EF M42 connector" width="990px" /><br><strong>Assembly M42</strong></td>
+    <td style="border: none; text-align: center;"><img src="canon_EF_M48.png" alt="Canon EF M48 connector" width="990px" /><br><strong>Assembly M48</strong></td>
   </tr>
 </table>
 
