@@ -44,7 +44,7 @@ Illustration of the three-element mounting setup:
 
 The repository contains the main FreeCAD project file and the associated STEP files for the different connector and bracket components:
 
-- [Canon_EF.FCStd](Canon_EF.FCStd) — FreeCAD project file
+- [lens-camera-adapters.FCStd](lens-camera-adapters.FCStd) — FreeCAD project file
 - [Canon_EF-Lens_connector.step](Canon_EF-Lens_connector.step) — Canon EF lens connector
 - [Canon_EF-M48_connector.step](Canon_EF-M48_connector.step) — M48 camera connector
 - [Canon_EF-T2_connector.step](Canon_EF-T2_connector.step) — T2/M42 camera connector
